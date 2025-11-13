@@ -1,0 +1,1322 @@
+═══════════════════════════════════════════════════════════════════════════════
+  FLUTTER - ПОВНА ПРОГРАМА НАВЧАННЯ (12 ТИЖНІВ)
+  Для розробки мобільного додатку Wanda Exchange + POS термінали
+═══════════════════════════════════════════════════════════════════════════════
+
+📅 ДАТА СТВОРЕННЯ: 12 листопада 2024
+🎯 МЕТА: Вивчити Flutter з нуля до Junior рівня за 12 тижнів (3 місяці)
+💼 ПРОЕКТ: Wanda Exchange Mobile App + POS Terminal Integration
+⏱️ ЧАС: 2 години/день (14 годин/тиждень)
+📊 ЗАГАЛЬНИЙ ЧАС: ~168 годин навчання
+
+═══════════════════════════════════════════════════════════════════════════════
+📺 YOUTUBE КАНАЛИ ТА КУРСИ
+═══════════════════════════════════════════════════════════════════════════════
+
+🇺🇦 УКРАЇНСЬКОЮ МОВОЮ:
+─────────────────────────────────────────────────────────────────────────────
+1. "Learn Flutter with Me (Вивчай Флаттер зі мною)"
+   📍 Канал: https://www.youtube.com/@LearnFlutterwithMe (можливо)
+   📌 SpaceLab: https://spacelab.ua/channels/Learn-Flutter-with-Me/
+   ℹ️ Відео уроки для початківців українською
+
+2. SpaceLab - Безкоштовний онлайн-курс Flutter
+   📍 https://spacelab.ua/course/flutter/
+   ℹ️ Структурований курс для початківців
+
+3. AVADA MEDIA - Безкоштовні Flutter уроки
+   📍 https://avada-media.ua/spacelab/flutter-courses/
+   ℹ️ Відео-туторіали на основі реальних проектів
+
+4. Web Academy - Flutter (Dart) з нуля
+   📍 https://web-academy.ua/course/flutter-dart
+   ℹ️ Створення мобільних додатків для Android та iOS
+
+🇷🇺 РОСІЙСЬКОЮ МОВОЮ (більше контенту):
+─────────────────────────────────────────────────────────────────────────────
+1. ⭐ Alexey Shpavda - "Flutter уроки для начинающих на русском"
+   📍 YouTube канал: шукати "Alexey Shpavda Flutter"
+   📍 Udemy: https://www.udemy.com/course/flutter_for_beginners/
+   📊 35 відео уроків (2-7 хвилин кожен)
+   ℹ️ НАЙПОПУЛЯРНІШИЙ російськомовний курс для початківців
+
+2. ⭐ LazyLoad - "Основы Flutter"
+   📍 YouTube: шукати "LazyLoad Flutter"
+   📊 34 відео уроки (5-100 хвилин)
+   ℹ️ Глибокий курс від основ до просунутих тем
+
+3. Pro Flutter - "Уроки Flutter на русском"
+   📍 YouTube: шукати "Pro Flutter"
+   📊 17 відео уроків (3-15 хвилин)
+   ℹ️ Компактні практичні уроки
+
+4. Codeandart Main - "Flutter разработка для начинающих. Приложение Quiz"
+   📍 YouTube: шукати "Codeandart Flutter"
+   📊 9 відео уроків (12-36 хвилин)
+   ℹ️ Практичний проект - створення Quiz додатку
+
+5. Dmitry Stoletz - "Flutter (курс простыми словами)"
+   📍 YouTube: шукати "Dmitry Stoletz Flutter"
+   📊 10 відео уроків (9-24 хвилини)
+   ℹ️ Простими словами для новачків
+
+🌍 АНГЛІЙСЬКОЮ (офіційні та топові):
+─────────────────────────────────────────────────────────────────────────────
+1. ⭐⭐⭐ Flutter Official Channel
+   📍 https://www.youtube.com/@flutterdev
+   ℹ️ Офіційний канал від Google
+
+2. ⭐⭐⭐ The Net Ninja - Flutter Tutorial for Beginners
+   📍 YouTube: шукати "Net Ninja Flutter"
+   ℹ️ Один з найкращих англомовних курсів (30+ уроків)
+
+3. freeCodeCamp - Flutter Course for Beginners
+   📍 YouTube: шукати "freeCodeCamp Flutter"
+   ℹ️ 37-годинний повний курс
+
+═══════════════════════════════════════════════════════════════════════════════
+💬 TELEGRAM СПІЛЬНОТИ FLUTTER
+═══════════════════════════════════════════════════════════════════════════════
+
+🇺🇦 УКРАЇНСЬКІ СПІЛЬНОТИ:
+─────────────────────────────────────────────────────────────────────────────
+1. ⭐ Art Flutter
+   📱 Telegram: шукати "@artflutter" або "Art Flutter"
+   👥 Українська спільнота Flutter-ентузіастів
+   ℹ️ Основний чат для українських Flutter розробників
+
+2. Awesome IT Communities UA
+   📱 GitHub: https://github.com/grem11n/awesome-it-communities-ua
+   ℹ️ Список усіх українських IT спільнот (там є Flutter)
+
+🇷🇺 РОСІЙСЬКОМОВНІ СПІЛЬНОТИ:
+─────────────────────────────────────────────────────────────────────────────
+1. ⭐⭐ Dart & Flutter (@rudart)
+   📱 Telegram: https://t.me/rudart
+   👥 Основний російськомовний чат про Dart та Flutter
+   ℹ️ Найактивніша спільнота, питання та відповіді
+
+2. Flutter for Dev (@flutterdevru)
+   📱 Telegram: https://t.me/flutterdevru
+   📰 Канал (не чат): статті, новини, оголошення
+   ℹ️ Російськомовний канал з матеріалами про Flutter
+
+3. LazyLoad Dart & Flutter
+   📱 Telegram: шукати "LazyLoad Flutter"
+   ℹ️ Репозиторій даних, кілька окремих чатів
+
+4. Dart Jobs (@dartlang_jobs)
+   📱 Telegram: https://t.me/dartlang_jobs
+   💼 Канал з вакансіями Flutter/Dart розробників
+
+🌍 МІЖНАРОДНІ:
+─────────────────────────────────────────────────────────────────────────────
+1. Flutter Community Index
+   📱 GitHub: https://github.com/flutter-telegram/community-index
+   🌍 Список ВСІХ Telegram груп про Dart та Flutter в світі
+   ℹ️ Тут можна знайти спільноти різними мовами
+
+═══════════════════════════════════════════════════════════════════════════════
+📚 ОФІЦІЙНА ДОКУМЕНТАЦІЯ ТА РЕСУРСИ
+═══════════════════════════════════════════════════════════════════════════════
+
+1. Flutter Official Documentation
+   🔗 https://docs.flutter.dev/
+
+2. Dart Language Tour
+   🔗 https://dart.dev/guides/language/language-tour
+
+3. Dart for JavaScript/TypeScript Developers
+   🔗 https://dart.dev/guides/language/coming-from/js-to-dart
+
+4. Flutter for Web Developers
+   🔗 https://docs.flutter.dev/get-started/flutter-for/web-devs
+
+5. DartPad (Online Playground)
+   🔗 https://dartpad.dev/
+
+6. Flutter Widget Catalog
+   🔗 https://docs.flutter.dev/ui/widgets
+
+7. Pub.dev (Flutter Packages)
+   🔗 https://pub.dev/
+
+═══════════════════════════════════════════════════════════════════════════════
+🗓️ ПРОГРАМА НАВЧАННЯ - ТИЖДЕНЬ 1-2
+═══════════════════════════════════════════════════════════════════════════════
+🎯 МЕТА: Основи Dart + налаштування середовища
+⏱️ ЧАС: 28 годин (14 год/тиждень × 2 тижні)
+
+ТИЖДЕНЬ 1: DART ОСНОВИ
+─────────────────────────────────────────────────────────────────────────────
+ДЕНЬ 1-2 (4 год): НАЛАШТУВАННЯ + HELLO WORLD
+  ⏰ День 1 (2 год):
+    ☐ Встановити Flutter SDK (30 хв)
+      • macOS: brew install --cask flutter
+      • Перевірка: flutter doctor
+
+    ☐ Встановити VS Code (30 хв)
+      • Плагін Flutter
+      • Плагін Dart
+
+    ☐ Створити перший проект (1 год)
+      • flutter create hello_flutter
+      • cd hello_flutter
+      • flutter run
+      • Розібрати структуру проекту
+
+  ⏰ День 2 (2 год):
+    📺 YouTube: Alexey Shpavda - урок 1-2 (30 хв)
+
+    ☐ Dart синтаксис - змінні (1 год):
+      • var, final, const
+      • int, double, String, bool
+      • Null safety (?, !, ??)
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ Створити practice.dart
+      ☐ Написати 5 простих програм:
+        1. Hello World
+        2. Змінні різних типів
+        3. Null safety приклади
+        4. String interpolation
+        5. Print різних типів даних
+
+ДЕНЬ 3-4 (4 год): DART - КОЛЕКЦІЇ ТА ОПЕРАТОРИ
+  ⏰ День 3 (2 год):
+    📺 YouTube: Alexey Shpavda - уроки 3-4 (30 хв)
+
+    ☐ Collections (1 год):
+      • List<T>
+      • Map<K, V>
+      • Set<T>
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ List з валютами
+      ☐ Map з даними користувача
+      ☐ For/while loops
+
+  ⏰ День 4 (2 год):
+    📺 YouTube: Alexey Shpavda - урок 5 (20 хв)
+
+    ☐ Оператори та умови (1 год):
+      • if/else
+      • switch/case
+      • Ternary operator (? :)
+
+    💻 ПРАКТИКА (40 хв):
+      ☐ Калькулятор
+      ☐ Перевірка парного числа
+      ☐ Максимум з двох чисел
+
+ДЕНЬ 5-7 (6 год): DART - ФУНКЦІЇ
+  ⏰ День 5 (2 год):
+    📺 YouTube: LazyLoad - уроки 1-2 (40 хв)
+
+    ☐ Функції (1 год):
+      • Звичайні функції
+      • Arrow functions (() => {})
+      • Named parameters
+      • Optional parameters
+
+    💻 ПРАКТИКА (20 хв):
+      ☐ Функція calculateSum()
+      ☐ Функція greetUser(name)
+      ☐ Функція з optional params
+
+  ⏰ День 6 (2 год):
+    💬 СПІЛЬНОТА (30 хв):
+      ☐ Приєднатись до Art Flutter
+      ☐ Приєднатись до @rudart
+      ☐ Представитись
+
+    📖 Читання (1 год):
+      ☐ Dart Language Tour - Functions
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ 5 функцій для роботи з List
+
+  ⏰ День 7 (2 год):
+    📖 Повторення тижня (1 год):
+      ☐ Переглянути весь код
+      ☐ Записати незрозумілі моменти
+
+    💻 MINI PROJECT (1 год):
+      ☐ CLI калькулятор на Dart
+      ☐ З меню та вибором операцій
+
+ТИЖДЕНЬ 2: DART ООП + ASYNC
+─────────────────────────────────────────────────────────────────────────────
+ДЕНЬ 8-10 (6 год): КЛАСИ ТА ООП
+  ⏰ День 8 (2 год):
+    📺 YouTube: LazyLoad - урок 3 (30 хв)
+
+    ☐ Classes основи (1 год):
+      • class declaration
+      • Constructors
+      • Properties
+      • Methods
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ class User (id, email, name)
+      ☐ class Currency (symbol, name, rate)
+
+  ⏰ День 9 (2 год):
+    📺 YouTube: Alexey Shpavda - уроки 6-7 (30 хв)
+
+    ☐ ООП продовження (1 год):
+      • Getters/setters
+      • Named constructors
+      • toString()
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ class Balance з методами
+      ☐ class Transaction
+
+  ⏰ День 10 (2 год):
+    💻 ПРАКТИКА - Моделі для Wanda (2 год):
+      ☐ User class з toJson/fromJson
+      ☐ Balance class
+      ☐ Asset class
+      ☐ Transaction class
+
+ДЕНЬ 11-14 (8 год): АСИНХРОННІСТЬ
+  ⏰ День 11 (2 год):
+    📺 YouTube: Alexey Shpavda - уроки 8-9 (40 хв)
+
+    ☐ Future<T> основи (1 год):
+      • async/await
+      • Future.delayed()
+      • then/catchError
+
+    💻 ПРАКТИКА (20 хв):
+      ☐ Future<String> fetchData()
+      ☐ Імітація API запиту
+
+  ⏰ День 12 (2 год):
+    📺 YouTube: LazyLoad - урок 4 (30 хв)
+
+    ☐ Error handling (1 год):
+      • try/catch/finally
+      • Custom exceptions
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ fetchUserData() з error handling
+      ☐ Timeout handling
+
+  ⏰ День 13 (2 год):
+    📖 Читання (1 год):
+      ☐ Dart Async Programming
+
+    💻 ПРАКТИКА (1 год):
+      ☐ Future.wait() - паралельні запити
+      ☐ Async функції для Wanda API
+
+  ⏰ День 14 (2 год):
+    💻 MINI PROJECT (2 год):
+      ☐ Fake API для практики
+      ☐ fetchBalance(), fetchHistory()
+      ☐ Error handling
+      ☐ Print результатів
+
+📊 КОНТРОЛЬНА ТОЧКА ТИЖДЕНЬ 1-2:
+─────────────────────────────────────────────────────────────────────────────
+✅ Ви повинні вміти:
+  ☐ Писати код на Dart (змінні, типи, null safety)
+  ☐ Працювати з колекціями (List, Map, Set)
+  ☐ Писати функції (звичайні, arrow, named params)
+  ☐ Створювати класи (properties, methods, constructors)
+  ☐ Використовувати async/await
+  ☐ Обробляти помилки (try/catch)
+
+═══════════════════════════════════════════════════════════════════════════════
+🗓️ ПРОГРАМА НАВЧАННЯ - ТИЖДЕНЬ 3-4
+═══════════════════════════════════════════════════════════════════════════════
+🎯 МЕТА: Flutter UI основи
+⏱️ ЧАС: 28 годин
+
+ТИЖДЕНЬ 3: ПЕРШІ FLUTTER ВІДЖЕТИ
+─────────────────────────────────────────────────────────────────────────────
+ДЕНЬ 15-16 (4 год): HELLO FLUTTER APP
+  ⏰ День 15 (2 год):
+    📺 YouTube: LazyLoad - урок 5 (30 хв)
+
+    ☐ Flutter basics (1 год):
+      • MaterialApp
+      • Scaffold
+      • AppBar
+      • Text widget
+      • Hot Reload
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ Створити flutter create wanda_practice
+      ☐ Змінити AppBar title
+      ☐ Змінити Text на екрані
+
+  ⏰ День 16 (2 год):
+    📺 YouTube: Alexey Shpavda - уроки 10-11 (40 хв)
+
+    ☐ Container widget (1 год):
+      • width, height
+      • color, padding, margin
+      • decoration
+
+    💻 ПРАКТИКА (20 хв):
+      ☐ Створити кольорові Container
+      ☐ З padding та margin
+
+ДЕНЬ 17-18 (4 год): LAYOUT - ROW, COLUMN
+  ⏰ День 17 (2 год):
+    📺 YouTube: LazyLoad - урок 6 (30 хв)
+
+    ☐ Row та Column (1 год):
+      • MainAxisAlignment
+      • CrossAxisAlignment
+      • Expanded, Flexible
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ Екран з Row та Column
+      ☐ Layout для балансу валюти
+
+  ⏰ День 18 (2 год):
+    📺 YouTube: Dmitry Stoletz - урок 1-2 (30 хв)
+
+    ☐ Icon та Image (30 хв)
+
+    💻 ПРАКТИКА (1 год):
+      ☐ Додати іконки валют
+      ☐ Layout з іконкою + текстом
+
+ДЕНЬ 19-21 (6 год): СПИСКИ ТА КАРТОЧКИ
+  ⏰ День 19 (2 год):
+    📺 YouTube: LazyLoad - урок 7 (30 хв)
+
+    ☐ ListView (1 год):
+      • ListView.builder
+      • ListTile
+      • Leading, title, subtitle
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ Список валют з ListTile
+
+  ⏰ День 20 (2 год):
+    📺 YouTube: Pro Flutter - уроки 1-2 (30 хв)
+
+    ☐ Card widget (30 хв)
+
+    💻 ПРАКТИКА (1 год):
+      ☐ Wallet card з балансом
+      ☐ Card для кожної валюти
+
+  ⏰ День 21 (2 год):
+    💻 MINI PROJECT (2 год):
+      ☐ Static Wallet Screen
+      ☐ AppBar
+      ☐ Total balance Card
+      ☐ ListView валют
+      ☐ Кожна валюта = Card з іконкою
+
+ТИЖДЕНЬ 4: STYLING + STATEFUL
+─────────────────────────────────────────────────────────────────────────────
+ДЕНЬ 22-24 (6 год): STYLING
+  ⏰ День 22 (2 год):
+    📺 YouTube: Dmitry Stoletz - уроки 3-4 (40 хв)
+
+    ☐ TextStyle (1 год):
+      • fontSize, fontWeight
+      • color, letterSpacing
+
+    💻 ПРАКТИКА (20 хв):
+      ☐ Styled тексти
+
+  ⏰ День 23 (2 год):
+    📺 YouTube: LazyLoad - урок 8 (30 хв)
+
+    ☐ BoxDecoration (1 год):
+      • color, gradient
+      • borderRadius, border
+      • boxShadow
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ Градієнтний Container
+      ☐ Rounded corners
+      ☐ Shadows
+
+  ⏰ День 24 (2 год):
+    💻 ПРАКТИКА - Styled Wallet (2 год):
+      ☐ Покращити вигляд Wallet Screen
+      ☐ Градієнти, shadows, rounded
+      ☐ Custom TextStyles
+
+ДЕНЬ 25-28 (8 год): STATEFUL WIDGETS
+  ⏰ День 25 (2 год):
+    📺 YouTube: LazyLoad - урок 9 (30 хв)
+
+    ☐ StatelessWidget vs StatefulWidget (1 год):
+      • setState()
+      • Widget lifecycle
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ Counter app з setState
+
+  ⏰ День 26 (2 год):
+    📺 YouTube: Alexey Shpavda - урок 12 (20 хв)
+
+    ☐ Buttons (40 хв):
+      • ElevatedButton
+      • TextButton
+      • IconButton
+      • onPressed
+
+    💻 ПРАКТИКА (1 год):
+      ☐ Екран з різними кнопками
+      ☐ Кнопка змінює текст через setState
+
+  ⏰ День 27 (2 год):
+    💻 ПРАКТИКА - Interactive List (2 год):
+      ☐ ListView з можливістю видалення
+      ☐ Кнопка "Add" додає item
+      ☐ setState управляє списком
+
+  ⏰ День 28 (2 год):
+    💻 MINI PROJECT - Todo List (2 год):
+      ☐ TextField для додавання
+      ☐ ListView todo items
+      ☐ Checkbox для completed
+      ☐ Delete button
+
+📊 КОНТРОЛЬНА ТОЧКА ТИЖДЕНЬ 3-4:
+─────────────────────────────────────────────────────────────────────────────
+✅ Ви повинні вміти:
+  ☐ Створювати базовий Flutter UI
+  ☐ Використовувати Container, Row, Column
+  ☐ Створювати ListView
+  ☐ Стилізувати віджети (TextStyle, BoxDecoration)
+  ☐ Використовувати StatefulWidget
+  ☐ setState для оновлення UI
+  ☐ Buttons та onPressed
+  ☐ Створити простий todo app
+
+═══════════════════════════════════════════════════════════════════════════════
+🗓️ ПРОГРАМА НАВЧАННЯ - ТИЖДЕНЬ 5-6
+═══════════════════════════════════════════════════════════════════════════════
+🎯 МЕТА: Forms + Navigation
+⏱️ ЧАС: 28 годин
+
+ТИЖДЕНЬ 5: ФОРМИ ТА ВАЛІДАЦІЯ
+─────────────────────────────────────────────────────────────────────────────
+ДЕНЬ 29-31 (6 год): TEXTFIELD
+  ⏰ День 29 (2 год):
+    📺 YouTube: LazyLoad - урок 10 (30 хв)
+
+    ☐ TextField basics (1 год):
+      • TextEditingController
+      • decoration (label, hint)
+      • obscureText (для password)
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ Email TextField
+      ☐ Password TextField
+
+  ⏰ День 30 (2 год):
+    📺 YouTube: Alexey Shpavda - урок 13 (20 хв)
+
+    ☐ Form + GlobalKey (1 год):
+      • Form widget
+      • GlobalKey<FormState>
+      • validator
+
+    💻 ПРАКТИКА (40 хв):
+      ☐ Login form з validation
+
+  ⏰ День 31 (2 год):
+    💻 ПРАКТИКА - Login Screen (2 год):
+      ☐ Email + Password fields
+      ☐ Validation
+      ☐ Submit button
+      ☐ setState для показу помилок
+
+ДЕНЬ 32-35 (8 год): COMPLEX FORMS
+  ⏰ День 32 (2 год):
+    📺 YouTube: Pro Flutter - урок 3 (20 хв)
+
+    ☐ Dropdowns (1 год):
+      • DropdownButton
+      • DropdownMenuItem
+
+    💻 ПРАКТИКА (40 хв):
+      ☐ Currency selector dropdown
+
+  ⏰ День 33 (2 год):
+    💻 ПРАКТИКА - Register Form (2 год):
+      ☐ Name, Email, Password fields
+      ☐ Dropdown для країни
+      ☐ Checkbox для T&C
+      ☐ Validation всіх полів
+
+  ⏰ День 34 (2 год):
+    💬 СПІЛЬНОТА (30 хв):
+      ☐ Поставити питання в @rudart
+      ☐ Поділитись прогресом
+
+    💻 ПРАКТИКА (1.5 год):
+      ☐ Exchange Amount Form
+      ☐ TextField для суми
+      ☐ Dropdown для валюти
+
+  ⏰ День 35 (2 год):
+    📖 Повторення (1 год)
+    💻 MINI PROJECT - Profile Form (1 год):
+      ☐ Форма редагування профілю
+      ☐ 5+ полів
+      ☐ Save button
+
+ТИЖДЕНЬ 6: НАВІГАЦІЯ
+─────────────────────────────────────────────────────────────────────────────
+ДЕНЬ 36-38 (6 год): NAVIGATOR
+  ⏰ День 36 (2 год):
+    📺 YouTube: LazyLoad - урок 11 (30 хв)
+
+    ☐ Navigation basics (1 год):
+      • Navigator.push()
+      • Navigator.pop()
+      • MaterialPageRoute
+
+    💻 ПРАКТИКА (30 хв):
+      ☐ 2 екрани з навігацією
+      ☐ Button для переходу
+
+  ⏰ День 37 (2 год):
+    📺 YouTube: Alexey Shpavda - урок 14 (20 хв)
+
+    ☐ Передача даних (1 год):
+      • Constructor arguments
+      • Route arguments
+
+    💻 ПРАКТИКА (40 хв):
+      ☐ Передати currency на detail екран
+
+  ⏰ День 38 (2 год):
+    💻 ПРАКТИКА - Multi-screen (2 год):
+      ☐ Home screen (список)
+      ☐ Detail screen (деталі)
+      ☐ Передача даних
+      ☐ Back navigation
+
+ДЕНЬ 39-42 (8 год): BOTTOM NAV + ПРОЕКТ
+  ⏰ День 39 (2 год):
+    📺 YouTube: Pro Flutter - урок 4 (20 хв)
+
+    ☐ BottomNavigationBar (1 год):
+      • items
+      • currentIndex
+      • onTap
+
+    💻 ПРАКТИКА (40 хв):
+      ☐ 3 tabs: Home, History, Settings
+
+  ⏰ День 40-42 (6 год):
+    💻 ВЕЛИКИЙ ПРОЕКТ - Mini Wanda App (6 год):
+
+      День 40 (2 год):
+        ☐ Створити проект структуру
+        ☐ BottomNav з 3 tabs
+        ☐ Wallet Screen (статичні дані)
+
+      День 41 (2 год):
+        ☐ Exchange Screen (форма)
+        ☐ History Screen (список)
+        ☐ Settings Screen (профіль)
+
+      День 42 (2 год):
+        ☐ Detail екрани
+        ☐ Навігація між екранами
+        ☐ Стилізація
+        ☐ Тестування
+
+📊 КОНТРОЛЬНА ТОЧКА ТИЖДЕНЬ 5-6:
+─────────────────────────────────────────────────────────────────────────────
+✅ Ви повинні вміти:
+  ☐ Створювати форми з TextField
+  ☐ Валідація форм
+  ☐ Dropdowns та інші input widgets
+  ☐ Navigation між екранами
+  ☐ Передача даних між екранами
+  ☐ BottomNavigationBar
+  ☐ Створити multi-screen app
+
+═══════════════════════════════════════════════════════════════════════════════
+🗓️ ПРОГРАМА НАВЧАННЯ - ТИЖДЕНЬ 7-8
+═══════════════════════════════════════════════════════════════════════════════
+🎯 МЕТА: HTTP + State Management
+⏱️ ЧАС: 28 годин
+
+ТИЖДЕНЬ 7: HTTP REQUESTS (DIO)
+─────────────────────────────────────────────────────────────────────────────
+ДЕНЬ 43-45 (6 год): DIO PACKAGE
+  ⏰ День 43 (2 год):
+    📖 Dio Documentation (30 хв)
+
+    ☐ Встановити Dio (30 хв):
+      • pubspec.yaml: dio: ^5.4.0
+      • flutter pub get
+
+    ☐ Dio basics (1 год):
+      • GET request
+      • POST request
+      • BaseOptions
+
+  ⏰ День 44 (2 год):
+    📺 YouTube: "Dio Flutter tutorial" (40 хв)
+
+    💻 ПРАКТИКА - API Client (1 год 20 хв):
+      ☐ Створити http_client.dart
+      ☐ GET запит до JSONPlaceholder
+      ☐ Показати результат
+
+  ⏰ День 45 (2 год):
+    💻 ПРАКТИКА - Error Handling (2 год):
+      ☐ try/catch для Dio
+      ☐ DioException handling
+      ☐ Показ помилок через SnackBar
+
+ДЕНЬ 46-49 (8 год): ІНТЕГРАЦІЯ API
+  ⏰ День 46 (2 год):
+    ☐ JSON Models (2 год):
+      • Створити models/
+      • User model з fromJson/toJson
+      • Post model
+
+  ⏰ День 47 (2 год):
+    💻 ПРАКТИКА - Fetch і Display (2 год):
+      ☐ Fetch posts від API
+      ☐ FutureBuilder widget
+      ☐ Loading state
+      ☐ Error state
+      ☐ Success - показати ListView
+
+  ⏰ День 48 (2 год):
+    💻 ПРАКТИКА - POST Request (2 год):
+      ☐ Форма для створення post
+      ☐ POST до API
+      ☐ Показ result
+
+  ⏰ День 49 (2 год):
+    💻 MINI PROJECT - Posts App (2 год):
+      ☐ List posts (GET)
+      ☐ Create post (POST)
+      ☐ Detail screen
+      ☐ Error handling
+
+ТИЖДЕНЬ 8: STATE MANAGEMENT (RIVERPOD BASICS)
+─────────────────────────────────────────────────────────────────────────────
+ДЕНЬ 50-52 (6 год): RIVERPOD INTRO
+  ⏰ День 50 (2 год):
+    📖 Riverpod Documentation (1 год)
+
+    ☐ Встановити (30 хв):
+      • flutter_riverpod: ^2.4.0
+      • ProviderScope
+
+    💻 Setup (30 хв):
+      ☐ Обгорнути app в ProviderScope
+
+  ⏰ День 51 (2 год):
+    📺 YouTube: "Riverpod Tutorial" (40 хв)
+
+    ☐ Provider basics (1 год):
+      • StateProvider
+      • ConsumerWidget
+      • ref.watch()
+      • ref.read()
+
+    💻 ПРАКТИКА (20 хв):
+      ☐ Counter з StateProvider
+
+  ⏰ День 52 (2 год):
+    💻 ПРАКТИКА - User Provider (2 год):
+      ☐ StateProvider<User?>
+      ☐ Login зберігає user
+      ☐ Logout очищує
+      ☐ Показ user на екрані
+
+ДЕНЬ 53-56 (8 год): RIVERPOD З API
+  ⏰ День 53 (2 год):
+    ☐ FutureProvider (2 год):
+      • FutureProvider для API
+      • AsyncValue (loading, error, data)
+      • ref.watch в UI
+
+  ⏰ День 54 (2 год):
+    💻 ПРАКТИКА - Posts Provider (2 год):
+      ☐ FutureProvider для fetch posts
+      ☐ AsyncValue в UI
+      ☐ Loading spinner
+      ☐ Error message
+
+  ⏰ День 55 (2 год):
+    💬 СПІЛЬНОТА (30 хв):
+      ☐ Питання про Riverpod в @rudart
+
+    💻 ПРАКТИКА (1.5 год):
+      ☐ Balance Provider для Wanda
+      ☐ Fetch balance від API
+
+  ⏰ День 56 (2 год):
+    💻 MINI PROJECT - Refactor (2 год):
+      ☐ Переписати Mini Wanda App
+      ☐ Використати Riverpod
+      ☐ FutureProvider для даних
+
+📊 КОНТРОЛЬНА ТОЧКА ТИЖДЕНЬ 7-8:
+─────────────────────────────────────────────────────────────────────────────
+✅ Ви повинні вміти:
+  ☐ HTTP requests з Dio
+  ☐ GET, POST запити
+  ☐ JSON serialization (fromJson/toJson)
+  ☐ FutureBuilder
+  ☐ Error handling для API
+  ☐ Riverpod basics (StateProvider, FutureProvider)
+  ☐ ConsumerWidget
+  ☐ ref.watch/read
+  ☐ AsyncValue (loading, error, data)
+
+═══════════════════════════════════════════════════════════════════════════════
+🗓️ ПРОГРАМА НАВЧАННЯ - ТИЖДЕНЬ 9-10
+═══════════════════════════════════════════════════════════════════════════════
+🎯 МЕТА: Advanced Features - QR, Charts
+⏱️ ЧАС: 28 годин
+
+ТИЖДЕНЬ 9: QR CODE
+─────────────────────────────────────────────────────────────────────────────
+ДЕНЬ 57-60 (8 год): QR GENERATION + SCANNING
+  ⏰ День 57 (2 год):
+    📖 qr_flutter package (30 хв)
+
+    ☐ Встановити (30 хв):
+      • qr_flutter: ^4.1.0
+
+    ☐ QR Generation (1 год):
+      • QrImageView widget
+      • size, padding
+
+    💻 ПРАКТИКА:
+      ☐ Генерувати QR з text
+
+  ⏰ День 58 (2 год):
+    💻 ПРАКТИКА - Deposit QR (2 год):
+      ☐ Screen з QR адресою
+      ☐ Copy button
+      ☐ Address під QR
+
+  ⏰ День 59 (2 год):
+    📖 mobile_scanner package (40 хв)
+
+    ☐ Встановити (20 хв):
+      • mobile_scanner: ^3.5.0
+
+    ☐ QR Scanning (1 год):
+      • MobileScanner widget
+      • Camera permissions
+      • onDetect callback
+
+  ⏰ День 60 (2 год):
+    💻 ПРАКТИКА - Scanner Screen (2 год):
+      ☐ Full-screen camera
+      ☐ Scan QR
+      ☐ Показати результат
+      ☐ Validation
+
+ДЕНЬ 61-63 (6 год): QR PROJECT
+  ⏰ День 61-63 (6 год):
+    💻 QR MINI PROJECT (6 год):
+
+      День 61 (2 год):
+        ☐ Voucher Generator
+        ☐ Input code, amount
+        ☐ Generate QR
+
+      День 62 (2 год):
+        ☐ Scanner screen
+        ☐ Validate voucher
+        ☐ Show details
+
+      День 63 (2 год):
+        ☐ Integration test
+        ☐ Polish UI
+        ☐ Error handling
+
+ТИЖДЕНЬ 10: CHARTS (БАЗОВІ)
+─────────────────────────────────────────────────────────────────────────────
+ДЕНЬ 64-66 (6 год): FL_CHART
+  ⏰ День 64 (2 год):
+    📖 fl_chart package (40 хв)
+
+    ☐ Встановити (20 хв):
+      • fl_chart: ^0.65.0
+
+    ☐ LineChart basics (1 год):
+      • FlSpot data points
+      • LineChartData
+      • Simple line
+
+  ⏰ День 65 (2 год):
+    📺 YouTube: "fl_chart tutorial" (40 хв)
+
+    💻 ПРАКТИКА - Balance Chart (1 год 20 хв):
+      ☐ LineChart для балансу 7 днів
+      ☐ Mock data
+      ☐ Styling
+
+  ⏰ День 66 (2 год):
+    💻 ПРАКТИКА - PieChart (2 год):
+      ☐ PieChart для розподілу валют
+      ☐ Colors, labels
+      ☐ Touch interactions
+
+ДЕНЬ 67-70 (8 год): CHARTS PROJECT
+  ⏰ День 67-68 (4 год):
+    💻 ПРАКТИКА - Wallet Charts (4 год):
+      ☐ Balance LineChart
+      ☐ Currency distribution PieChart
+      ☐ Integration з Wallet Screen
+
+  ⏰ День 69 (2 год):
+    💬 СПІЛЬНОТА (30 хв):
+      ☐ Поділитись charts в @rudart
+
+    💻 Polish (1.5 год):
+      ☐ Styling, animations
+      ☐ Tooltips
+
+  ⏰ День 70 (2 год):
+    📖 Повторення тижнів 9-10 (1 год)
+    💻 Bug fixes (1 год)
+
+📊 КОНТРОЛЬНА ТОЧКА ТИЖДЕНЬ 9-10:
+─────────────────────────────────────────────────────────────────────────────
+✅ Ви повинні вміти:
+  ☐ QR code generation (qr_flutter)
+  ☐ QR code scanning (mobile_scanner)
+  ☐ Camera permissions
+  ☐ Charts - LineChart
+  ☐ Charts - PieChart
+  ☐ Інтеграція charts з даними
+
+═══════════════════════════════════════════════════════════════════════════════
+🗓️ ПРОГРАМА НАВЧАННЯ - ТИЖДЕНЬ 11-12
+═══════════════════════════════════════════════════════════════════════════════
+🎯 МЕТА: Final Project + POS Intro
+⏱️ ЧАС: 28 годин
+
+ТИЖДЕНЬ 11: WANDA MVP
+─────────────────────────────────────────────────────────────────────────────
+ДЕНЬ 71-77 (14 год): FINAL PROJECT
+  💻 ВЕЛИКИЙ ПРОЕКТ - Wanda Mobile MVP (14 год):
+
+  ⏰ День 71-72 (4 год):
+    ☐ Структура проекту
+    ☐ Riverpod providers
+    ☐ Models (User, Balance, Asset, Transaction)
+    ☐ API client з Dio
+    ☐ Auth interceptor
+
+  ⏰ День 73-74 (4 год):
+    ☐ Auth Module:
+      • Login Screen
+      • Register Screen
+      • User Provider
+      • Token storage (shared_preferences)
+
+    ☐ Wallet Module:
+      • Balance Screen з charts
+      • Asset List
+      • Balance Provider
+
+  ⏰ День 75-76 (4 год):
+    ☐ Exchange Module:
+      • Buy/Sell Form
+      • Amount validation
+      • Mock calculation
+
+    ☐ Deposit Module:
+      • Crypto Deposit з QR
+      • Copy address
+
+    ☐ Withdraw Module:
+      • Address input
+      • Amount input
+      • Generate voucher QR
+
+  ⏰ День 77 (2 год):
+    ☐ History Module:
+      • Transaction list
+      • Filters (type, currency)
+      • Detail screen
+
+    ☐ Settings:
+      • Profile
+      • Security
+      • Theme toggle
+
+ТИЖДЕНЬ 12: TESTING + POS INTRO
+─────────────────────────────────────────────────────────────────────────────
+ДЕНЬ 78-80 (6 год): ТЕСТУВАННЯ ТА POLISH
+  ⏰ День 78-79 (4 год):
+    ☐ Тестування всіх flow (2 год)
+    ☐ Bug fixes (1 год)
+    ☐ UI polish (1 год):
+      • Loading states
+      • Error messages
+      • Empty states
+
+  ⏰ День 80 (2 год):
+    ☐ Performance (1 год):
+      • Optimize images
+      • Lazy loading
+
+    ☐ Build APK (1 год):
+      • flutter build apk --release
+      • Test на real device
+
+ДЕНЬ 81-84 (8 год): POS BASICS (INTRO)
+  ⏰ День 81 (2 год):
+    📖 Sunmi Documentation (1 год)
+
+    ☐ POS Overview (1 год):
+      • Що таке POS terminal
+      • Sunmi hardware
+      • Функції (printer, scanner)
+
+  ⏰ День 82 (2 год):
+    📖 sunmi_printer_plus package (1 год)
+
+    ☐ Встановити (30 хв):
+      • sunmi_printer_plus: ^2.1.1
+
+    💻 Hello Printer (30 хв):
+      ☐ printText("Hello from Wanda!")
+
+  ⏰ День 83 (2 год):
+    💻 ПРАКТИКА - Receipt Template (2 год):
+      ☐ Створити printer_service.dart
+      ☐ printReceipt(Transaction)
+      ☐ Text formatting
+      ☐ Line wraps
+
+  ⏰ День 84 (2 год):
+    💻 ПРАКТИКА - Voucher Print (2 год):
+      ☐ printVoucher(code, amount)
+      ☐ Print QR code
+      ☐ Cut paper
+      ☐ Test на емуляторі
+
+📊 ФІНАЛЬНА ОЦІНКА ПІСЛЯ 12 ТИЖНІВ:
+─────────────────────────────────────────────────────────────────────────────
+✅ ВИ ДОСЯГЛИ JUNIOR РІВНЯ:
+
+✅ DART:
+  ☐ Синтаксис, типи, null safety
+  ☐ ООП (classes, constructors, methods)
+  ☐ Async/await, Future
+  ☐ Collections (List, Map, Set)
+
+✅ FLUTTER UI:
+  ☐ Widgets (Container, Row, Column, ListView)
+  ☐ Stateless/Stateful widgets
+  ☐ Layout та styling
+  ☐ Forms та validation
+  ☐ Navigation
+
+✅ STATE MANAGEMENT:
+  ☐ Riverpod basics (StateProvider, FutureProvider)
+  ☐ ConsumerWidget
+  ☐ AsyncValue
+
+✅ API INTEGRATION:
+  ☐ Dio HTTP client
+  ☐ GET, POST requests
+  ☐ JSON serialization
+  ☐ Error handling
+
+✅ ADVANCED FEATURES:
+  ☐ QR generation та scanning
+  ☐ Charts (LineChart, PieChart)
+  ☐ BottomNavigationBar
+  ☐ Multi-screen apps
+
+✅ PROJECT:
+  ☐ Створили робочий Wanda Mobile MVP
+  ☐ Auth, Wallet, Exchange, History
+  ☐ API integration
+  ☐ Build APK
+
+✅ POS (INTRO):
+  ☐ Розуміння POS hardware
+  ☐ Базовий printer integration
+  ☐ Receipt templates
+
+═══════════════════════════════════════════════════════════════════════════════
+🚀 ЩО ДАЛІ? (ПІСЛЯ 12 ТИЖНІВ)
+═══════════════════════════════════════════════════════════════════════════════
+
+НАСТУПНІ КРОКИ ДО MIDDLE РІВНЯ:
+─────────────────────────────────────────────────────────────────────────────
+☐ Продовження навчання (Тижні 13-24):
+
+  ТИЖДЕНЬ 13-16: ADVANCED STATE MANAGEMENT
+    • Riverpod AsyncNotifier, Notifier
+    • Complex state logic
+    • Riverpod codegen
+    • Family providers
+
+  ТИЖДЕНЬ 17-20: REAL-TIME + ADVANCED FEATURES
+    • SignalR integration
+    • WebSocket real-time rates
+    • Advanced animations
+    • Biometric auth (Face ID, Touch ID)
+    • Secure storage
+    • Offline mode (Hive database)
+
+  ТИЖДЕНЬ 21-24: POS ADVANCED + PRODUCTION
+    • Sunmi scanner integration
+    • NFC reading
+    • Advanced printer features
+    • POS Terminal App
+    • Testing (unit, widget, integration)
+    • Play Store deployment
+
+ПРАКТИЧНІ ЗАВДАННЯ:
+─────────────────────────────────────────────────────────────────────────────
+☐ Додати до Wanda MVP:
+  • Push notifications (Firebase)
+  • Deep linking
+  • P2P/Escrow з chat
+  • Virtual Cards
+  • Mapbox map з locations
+  • Advanced validation
+  • Advanced error handling
+  • Offline sync
+
+☐ POS Terminal App:
+  • Voucher scanning та activation
+  • Receipt printing
+  • Transaction history
+  • Offline mode
+  • Admin features
+
+☐ Production:
+  • CI/CD setup
+  • Play Store listing
+  • App Store listing
+  • Beta testing
+  • Production release
+
+═══════════════════════════════════════════════════════════════════════════════
+💡 ПОРАДИ ДЛЯ ЕФЕКТИВНОГО НАВЧАННЯ (2 ГОДИНИ/ДЕНЬ)
+═══════════════════════════════════════════════════════════════════════════════
+
+1. РОЗКЛАД ДНЯ:
+   ⏰ Обрати фіксований час:
+     • Ранок (6:00-8:00) - найкраща концентрація
+     • Вечір (20:00-22:00) - після роботи
+
+   ⏰ Структура 2 години:
+     • 0-30 хв: Теорія (відео/читання)
+     • 30-90 хв: Практика (код) ← НАЙВАЖЛИВІШЕ
+     • 90-120 хв: Закріплення (повторення, тести)
+
+2. ЕФЕКТИВНІСТЬ:
+   ☐ Вимкнути все що відволікає
+   ☐ Phone на беззвучний
+   ☐ Повідомити домашніх
+   ☐ Pomodoro: 25 хв код / 5 хв перерва
+   ☐ НЕ пропускати дні!
+
+3. ПРАКТИКА > ТЕОРІЯ:
+   ☐ 20% теорія, 80% практика
+   ☐ Не просто дивитись відео - ПИСАТИ КОД
+   ☐ Змінювати приклади
+   ☐ Експериментувати
+   ☐ Ламати та чинити
+
+4. СПІЛЬНОТА:
+   ☐ Telegram чати - ваші друзі
+   ☐ Якщо застрягли 30+ хв → питайте в @rudart
+   ☐ Ділитись прогресом щотижня
+   ☐ Допомагати іншим = найкраще навчання
+
+5. GIT:
+   ☐ Commit кожен день після сесії
+   ☐ Описові commit messages
+   ☐ Push на GitHub
+   ☐ Портфоліо буде зростати
+
+6. НЕ ЗГОРЯТИ:
+   ☐ 2 години ЩОДНЯ краще ніж 10 годин раз на тиждень
+   ☐ Вихідні - можна 1 годину замість 2
+   ☐ Якщо пропустили день - не здавайтесь
+   ☐ Consistency > Intensity
+
+7. МОТИВАЦІЯ:
+   ☐ Бачити прогрес щотижня
+   ☐ Святкувати досягнення (кожні 2 тижні)
+   ☐ Візуалізувати мету (Junior Flutter Dev!)
+   ☐ Пам'ятати НАВІЩО ви це робите
+
+═══════════════════════════════════════════════════════════════════════════════
+🎯 КРИТЕРІЇ УСПІХУ ПО ТИЖНЯХ
+═══════════════════════════════════════════════════════════════════════════════
+
+ТИЖДЕНЬ 1-2 (Dart):
+  ✅ Пишу код на Dart без документації
+  ✅ Розумію async/await
+  ✅ Створюю класи з методами
+
+ТИЖДЕНЬ 3-4 (Flutter UI):
+  ✅ Створюю UI без туторіалів
+  ✅ Розумію Stateful widgets
+  ✅ Зробив todo app
+
+ТИЖДЕНЬ 5-6 (Forms + Nav):
+  ✅ Валідація форм
+  ✅ Multi-screen app з навігацією
+  ✅ BottomNavigationBar
+
+ТИЖДЕНЬ 7-8 (HTTP + Riverpod):
+  ✅ Fetch data від API
+  ✅ Показую в UI
+  ✅ Використовую Riverpod
+
+ТИЖДЕНЬ 9-10 (QR + Charts):
+  ✅ Сканую та генерую QR
+  ✅ Показую charts з даними
+
+ТИЖДЕНЬ 11-12 (Project + POS):
+  ✅ Зробив робочий Wanda MVP
+  ✅ Build APK
+  ✅ Розумію POS basics
+
+═══════════════════════════════════════════════════════════════════════════════
+📞 КОНТАКТИ ДЛЯ ДОПОМОГИ
+═══════════════════════════════════════════════════════════════════════════════
+
+🇺🇦 УКРАЇНСЬКА СПІЛЬНОТА:
+  Telegram: Art Flutter (шукати "@artflutter")
+
+🇷🇺 РОСІЙСЬКОМОВНА СПІЛЬНОТА:
+  Telegram: @rudart (Dart & Flutter) ← ОСНОВНИЙ ЧАТ
+  Telegram: @flutterdevru (новини)
+
+💼 ВАКАНСІЇ:
+  Telegram: @dartlang_jobs
+
+📚 ОФІЦІЙНА ДОКУМЕНТАЦІЯ:
+  https://docs.flutter.dev/
+  https://dart.dev/
+
+═══════════════════════════════════════════════════════════════════════════════
+✨ МОТИВАЦІЯ ДЛЯ 12-ТИЖНЕВОГО МАРАФОНУ
+═══════════════════════════════════════════════════════════════════════════════
+
+"Ви обрали шлях поступового зростання - 2 години щодня.
+
+Це НЕ спринт, це марафон. І саме такий підхід найефективніший для
+довгострокового успіху.
+
+📈 Через 12 тижнів (84 дні × 2 години = 168 годин навчання):
+  ✅ Ви будете Junior Flutter Developer
+  ✅ У вас буде робоче портфоліо (Wanda Mobile App)
+  ✅ Ви зможете шукати першу Flutter роботу
+  ✅ Ви розумітимете POS integration
+
+📈 Через 24 тижні (6 місяців):
+  ✅ Middle Flutter Developer
+  ✅ Зарплата на 20-35% вища
+  ✅ Повноцінний Wanda Mobile + POS Terminal App
+  ✅ Production deployment
+
+🎯 Головне правило: НЕ ПРОПУСКАТИ ДІВНІ!
+
+2 години сьогодні > 0 годин сьогодні + 4 години завтра
+
+Consistency is key. 🔑
+
+Кожен день - це +1% до вашої майбутньої кар'єри.
+Через 84 дні ви будете на 84% ближче до мети.
+
+Вперед! Ви зможете! 💪
+
+Let's build something amazing! 🚀"
+
+═══════════════════════════════════════════════════════════════════════════════
+📝 ЧЕКЛИСТ ПЕРЕД СТАРТОМ (ДЕНЬ 0)
+═══════════════════════════════════════════════════════════════════════════════
+
+⏰ ПІДГОТОВКА (1 година):
+  ☐ Встановити Flutter SDK
+  ☐ Встановити VS Code з плагінами
+  ☐ Налаштувати емулятор
+  ☐ Перевірити flutter doctor
+  ☐ Створити тестовий проект
+  ☐ Запустити Hello World
+
+💬 СПІЛЬНОТА (30 хв):
+  ☐ Приєднатись до Art Flutter (українська)
+  ☐ Приєднатись до @rudart (російська)
+  ☐ Приєднатись до @flutterdevru (новини)
+  ☐ Підписатись на @dartlang_jobs
+  ☐ Прочитати rules в чатах
+
+📱 ПІДПИСКИ YOUTUBE (20 хв):
+  ☐ Alexey Shpavda
+  ☐ LazyLoad
+  ☐ Pro Flutter
+  ☐ Flutter Official
+
+🗂️ ОРГАНІЗАЦІЯ (40 хв):
+  ☐ Створити GitHub репозиторій "flutter-learning"
+  ☐ Створити папку Projects/Flutter
+  ☐ Завести dev-щоденник (Notion/Google Docs)
+  ☐ Налаштувати робоче місце
+  ☐ Заблокувати час в календарі (2 год/день на 12 тижнів)
+
+☕ LIFESTYLE:
+  ☐ Обрати час для навчання (ранок або вечір)
+  ☐ Повідомити сім'ю/друзів про марафон
+  ☐ Купити каву/чай
+  ☐ Приготувати плейлист для focus
+  ☐ Вимкнути відвлікаючі notifications на час навчання
+
+📅 КАЛЕНДАР:
+  ☐ Старт: ___ (ваша дата)
+  ☐ Фініш (Тиждень 12): ___ (через 84 дні)
+  ☐ Milestone 1 (Тиждень 4): ___ (через 28 днів)
+  ☐ Milestone 2 (Тиждень 8): ___ (через 56 днів)
+
+═══════════════════════════════════════════════════════════════════════════════
+🏁 ГОТОВИЙ ПОЧАТИ МАРАФОН? LET'S GO!
+═══════════════════════════════════════════════════════════════════════════════
+
+Ця програма створена спеціально для вас з урахуванням:
+  ✅ 2 години/день (реалістично)
+  ✅ Junior рівень (не перевантажено)
+  ✅ Wanda Exchange Mobile App (ваша мета)
+  ✅ 12 тижнів (поступове зростання)
+
+Пам'ятайте:
+  • Не порівнюйте себе з іншими
+  • Кожен день - це прогрес
+  • Помилки - це частина навчання
+  • Питання - це нормально
+  • Consistency > Intensity
+
+📅 ДАТА СТАРТУ: 12 листопада 2024
+📅 ДАТА ЗАВЕРШЕННЯ: 4 лютого 2025 (12 тижнів)
+🎯 РЕЗУЛЬТАТ: Junior Flutter Developer з робочим портфоліо!
+
+Побачимось через 12 тижнів! До зустрічі як Flutter Junior Developer! 🎉
+
+═══════════════════════════════════════════════════════════════════════════════
+💪 STAY CONSISTENT. STAY MOTIVATED. YOU GOT THIS!
+═══════════════════════════════════════════════════════════════════════════════
