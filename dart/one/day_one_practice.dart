@@ -97,7 +97,7 @@ void variablesExample() {
   bool hasBonus = false;
 
   // final - незмінна змінна (визначається під час виконання)
-  final String appName = "Wanda Exchange";
+  final String appName = "HELL_YEAH";
 
   // const - константа (визначається під час компіляції)
   const double PI = 3.14159;
@@ -212,7 +212,7 @@ void printDifferentTypes() {
   // Текст
   String shortText = "Короткий текст";
   String longText =
-      "Це довгий текст, який містить багато інформації про Wanda Exchange";
+      "Це довгий текст, який містить багато інформації про HELL_YEAH";
   String emptyString = "";
 
   print('Короткий: "$shortText"');
